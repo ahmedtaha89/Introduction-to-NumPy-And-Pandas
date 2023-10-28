@@ -1,4 +1,4 @@
-# Introduction-to-NumPy
+# Introduction-to-NumPy-And-Pandas
 
 - Team Section 1 (IS)
   
